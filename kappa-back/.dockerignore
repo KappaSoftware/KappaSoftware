@@ -1,0 +1,26 @@
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+
+# FRONT
+kappa-front/node_modules
+kappa-front/.pnp
+kappa-front/.pnp.js
+
+#testing
+kappa-front//coverage
+
+#production
+kappa-front/build
+
+#misc
+kappa-front/.DS_Store
+kappa-front/.env.local
+kappa-front/.env.development.local
+kappa-front/.env.test.local
+kappa-front/.env.production.local
+
+kappa-front/npm-debug.log*
+kappa-front/yarn-debug.log*
+kappa-front/yarn-error.log*

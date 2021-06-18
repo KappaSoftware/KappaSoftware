@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Icon": "/assets/images/road.png",
+        "Categoria": "M",
+        "Popup": "Medicamento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.56640625, 49.61070993807422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Icon": "/assets/images/vaccine.png",
+        "Categoria": "S",
+        "Popup": "Servicio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.7080078125, 48.31242790407178]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Icon": "/assets/images/vaccine.png",
+        "Categoria": "S",
+        "Popup": "Servicio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [67.0166015625, 46.89023157359399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Icon": "/assets/images/road.png",
+        "Categoria": "M",
+        "Popup": "Medicamento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.00561523437499, 10.466205555063882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Icon": "/assets/images/vaccine.png",
+        "Categoria": "R",
+        "Popup": "R"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.90193176269531, 10.437844967041542]
+      }
+    }
+  ]
+}

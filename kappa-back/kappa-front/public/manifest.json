@@ -1,0 +1,15 @@
+{
+  "short_name": "Kappa App",
+  "name": "Kappa Application",
+  "icons": [
+    {
+      "src": "kappaLogo.png",
+      "type": "image/png",
+      "sizes": "280x280"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
