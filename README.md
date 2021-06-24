@@ -1,4 +1,4 @@
-# Proyecto Kappa Software
+# Proyecto Kappa Software (English below)
 
 ## Contenido
 
@@ -68,5 +68,5 @@ From the social point of view, Kappa Software seeks to serve as a communication 
 - [Code of COnduct][1]: guidelines of conduct to be followed by project contributors.
 - [Licence][2]: all code published here has licence ![código](https://img.shields.io/badge/code-Affero%20GPL%20v3-lima?style=flat-square) and the binaries ![código](https://img.shields.io/badge/code-MIT-lima?style=flat-square), any other applicable license will be explicitly indicated in the contribution that requires it. Contributions with licenses incompatible with the Free Software principles will not be accepted.
 
-[1]: https://github.com/KappaSoftware/Kappa/blob/main/CODE_OF_CONDUCT.md
-[2]: https://github.com/KappaSoftware/Kappa/blob/main/LICENSE
+[1]: https://github.com/KappaSoftware/KappaSoftware/blob/main/CODE_OF_CONDUCT.md
+[2]: https://github.com/KappaSoftware/KappaSoftware/blob/main/LICENSE
