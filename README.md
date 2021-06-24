@@ -8,11 +8,11 @@
 
 ## Introducción <a name = "Introducción"></a>
 
-Bienvenid@ al proyecto **Kappa**, aquí puede encontrar toda la información sobre el desarrollo y publicación de contenidos.
+Bienvenid@ al proyecto **Kappa**, aquí puedes encontrar toda la información sobre el desarrollo y publicación de contenidos.
 
 ![coverage](https://img.shields.io/badge/estado-100%25-blue?style=for-the-badge)
 
-Kappa Software es una aplicación de georreferenciación con enfoque social, tiene como objetivo permitir a cualquiera marcar en el mapa desde eventos (protestas, mitines, etc), puntos de vacunación, baches de carretera desde un bot de telegram. El mapa con todas las categorías y puntos se puede consultar desde la aplicación web (www.kappasw.org) y también desde el bot de telegram (@kappa_software_bot)
+Kappa Software es una aplicación de georreferenciación con enfoque social, tiene como objetivo permitir que cualquier persona pueda marcar en el mapa la localización eventos (protestas, motines, etc), puntos de vacunación, baches de carretera, etc, desde su smartphone a través de un bot de telegram. La principal herramienta de visualizaión de las categorías, subcategorías y puntos mapeados es la aplicación web www.kappasw.org/map, aunque el bot de telegram @kappa_software_bot tiene también una funcionalidad específica para este fin.
 
 Kappa Software no captura ni almacena datos vinculantes de los usuarios - tenemos como principio el respeto a la privacidad de nuestros usuarios -. Al ser un proyecto de Software Libre espera la contribución de la comunidad para poder mantener actualizado el servicio y funcionalidades desarrolladas y por desarrollar.
 
