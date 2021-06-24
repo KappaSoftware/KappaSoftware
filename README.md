@@ -20,6 +20,12 @@ Para los desarrolladores que quieran contribuir al proyecto, o para quienes sól
 - La carpeta "imágenes" contiene imágenes de utilidad relacionadas al proyecto como los diagramas que muestran el flujo de información a través de las diferentes instancias (back, node, front).
 - La carpeta "kappa-back" contiene todos los elementos relacionados con el back-end del proyecto en general y con el front-end de la página Web.
 
+Si quieres contribuir a este proyecto te proponemos considerar:
+
+- Divulgarlo ampliamente entre desarrolladores de software, así como entre posibles usuarios, especialmente grupos con necesidades específicas de herramientas de georreferenciación
+- Proponer mejoras para optimizar el código, ideas para la implementación de nuevas funcionalidades o mejora de las ya existentes
+- Ayudarnos a solucionar bugs que pueden aparecer durante la ejecución del código
+
 
 ![coverage](https://img.shields.io/badge/estado-100%25-blue?style=for-the-badge)
 
@@ -55,6 +61,12 @@ For developers who want to contribute to the project, or for those who just want
 - In the "docs" folder you can find a description of the 6 founders of the project, a file that contains our terms of use, one that contains our privacy policy, and one that describes the implementation of all Kappa Software services in a standalone server, a database and on a commercial server.
 - The "images" folder contains utility images related to the project such as diagrams that show the flow of information through the different instances (back, node, front).
 - The "kappa-back" folder contains all the elements related to the back-end of the project in general and to the front-end of the Web page.
+
+If you want to contribute to this project, we suggest you consider:
+
+- Disseminate it widely among software developers, as well as potential users, especially groups with specific needs for georeferencing tools
+- Propose improvements to optimize the code, ideas for the implementation of new functionalities, or improvement of existing ones
+- Help us to solve bugs that may appear during the execution of the code
 
 ![coverage](https://img.shields.io/badge/estado-100%25-blue?style=for-the-badge)
 
